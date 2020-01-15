@@ -27,6 +27,12 @@
             <artifactId>jira-client</artifactId>
             <version>0.5</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.codepine.api</groupId>
+            <artifactId>testrail-api-java-client</artifactId>
+            <version>2.0.1</version>
+        </dependency>
     </dependencies>
 
 </project>
